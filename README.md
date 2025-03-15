@@ -1,6 +1,5 @@
-## Hi there! 👋
-
-### I'm Dinesh RADJOU, a computer science enthusiast with a deep passion for gaming!
+<h1 align="center">Hi there! 👋 I'm Dinesh RADJOU, </h1>
+<h3 align="center">a computer science enthusiast with a deep passion for gaming! </h3>
 
 
 ## 🧐 About Me
@@ -22,12 +21,14 @@ Here are some of the skills and technologies that I excel at:
 
 ## 📊 GitHub Statistics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RADJOU-Dinesh-24003262&show_icons=true&theme=dracula)
-
-### 🔝 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RADJOU-Dinesh-24003262&layout=compact&theme=dracula)
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RADJOU-Dinesh-24003262&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RADJOU-Dinesh-24003262&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+<br>
+<br>
+‎ 
+‎ 
 Let's connect and build amazing things together! 🌟
